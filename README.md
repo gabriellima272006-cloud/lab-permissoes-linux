@@ -5,7 +5,6 @@ Neste laboratório prático, simulei o ambiente real de uma empresa usando uma m
 ## 🛠️ Ferramentas Utilizadas
 * Sistema Operacional: Linux Ubuntu (VirtualBox)
 * Comandos de Terminal: `mkdir`, `chmod`, `adduser`, `su`
-
 ## 🚀 Passos de Execução
 
 ### Passo 1: Criação da Pasta Segura
